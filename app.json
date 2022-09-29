@@ -1,5 +1,5 @@
 {
-    "name": "TGVid-Comp",
+    "name": "TGVid-Compq",
     "description": "A telegram video encoder.",
     "logo": "https://telegra.ph/file/3ca32c39654a059500708.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
